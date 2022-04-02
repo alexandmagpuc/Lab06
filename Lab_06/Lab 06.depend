@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1648602228 source:d:\users\1294529\desktop\lab 06\main.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	<winbase.h>
+	<psapi.h>
+	<stdint.h>
+
+1648588106 source:c:\users\alexandmag\desktop\lab 06\lab 06 - 02\main.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	<winbase.h>
+	<psapi.h>
+	<stdint.h>
+
+1648696162 source:c:\users\alexandmag\desktop\lab_06\main.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	<winbase.h>
+	<psapi.h>
+	<stdint.h>
+
