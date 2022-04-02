@@ -130,5 +130,3 @@ int main()
 
     }
 }
-
-//https://replit.com/@KleberSouza/OrdenacaoInternaC#shellsort.c
